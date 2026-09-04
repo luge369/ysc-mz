@@ -1,5 +1,5 @@
 {
-  "spider": "http://oss4liview.moji.com/thd_file/2026/09/01/bb1543fe5a028b997b400057e2f24922.jpg;md5;9dafc2b90091283453be78a10fa57a5c",
+  "spider": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
   "sites": [
     {"key": "点我切源","name": "🚀┃路哥┃专用","type": 3,"api": "csp_DouDouGuard","indexs": 1,"searchable": 0,"quickSearch": 0,"changeable": 0},
@@ -259,17 +259,18 @@
             }
         },
     {
-            "key": "ChildrenAiTuTu",
-            "name": "👼兔兔┃儿歌👼",
-            "type": 3,
-            "api": "csp_ChildrenAiTuTuGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 2
-            }
-        }
+  "key": "ChildrenAiTuTu",
+  "name": "👼兔兔┃儿歌👼",
+  "type": 3,
+  "api": "csp_ChildrenAiTuTuGuard",
+  "searchable": 1,
+  "changeable": 0,
+  "style": {
+    "type": "rect",
+    "ratio": 2
+  },
+  "jar": "http://oss4liview.moji.com/thd_file/2026/09/01/bb1543fe5a028b997b400057e2f24922.jpg;md5;9dafc2b90091283453be78a10fa57a5c"
+}
   ],
   "rules": [
     {"name": "cdn.ryplay","hosts": ["cdn.ryplay"],"regex": ["5.480000","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.480000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:5.320000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:3.360000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:4.000000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:0.560000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},

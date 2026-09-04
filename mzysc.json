@@ -1,5 +1,5 @@
 {
-  "spider": "http://oss4liview.moji.com/thd_file/2026/09/01/bb1543fe5a028b997b400057e2f24922.jpg;md5;9dafc2b90091283453be78a10fa57a5c",
+  "spider": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
   "sites": [
     {"key": "点我切源","name": "🚀┃路哥┃专用","type": 3,"api": "csp_DouDouGuard","indexs": 1,"searchable": 0,"quickSearch": 0,"changeable": 0},
@@ -210,7 +210,7 @@
             "key": "Wexergeduoduo",
             "name": "👼┃多多┃儿歌",
             "type": 3,
-            "jar": "http://oss4liview.moji.com/thd_file/2026/08/20/a51655b0d713c87cc109bbf7feb5ffc8.jpg;md5;4996328b1d39e8bce7f241119238f97c",
+            "jar": "http://oss4liview.moji.com/thd_file/2026/09/01/bb1543fe5a028b997b400057e2f24922.jpg;md5;9dafc2b90091283453be78a10fa57a5c",
             "api": "csp_WexergeduoduoGuard",
             "searchable": 1,
             "changeable": 0,
@@ -223,7 +223,7 @@
             "key": "ChildrenAiBaoBao",
             "name": "👼┃宝宝┃儿歌",
             "type": 3,
-           "jar": "http://oss4liview.moji.com/thd_file/2026/09/01/bb1543fe5a028b997b400057e2f24922.jpg;md5;9dafc2b90091283453be78a10fa57a5c",
+            "jar": "http://oss4liview.moji.com/thd_file/2026/09/01/bb1543fe5a028b997b400057e2f24922.jpg;md5;9dafc2b90091283453be78a10fa57a5c",
             "api": "csp_ChildrenAiBaoBaoGuard",
             "searchable": 1,
             "changeable": 0,

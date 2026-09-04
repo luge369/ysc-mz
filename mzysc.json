@@ -82,7 +82,7 @@
             }
         },
     {
-            "name": "⭐韩剧┃秒播",
+            "name": "⭐┃韩剧┃TV",
             "key": "Hxq",
             "type": 3,
             "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
@@ -93,7 +93,7 @@
         },
     {
             "key": "新6V",
-            "name": "🧲新6V┃磁力",
+            "name": "🧲┃新6V┃磁力",
             "type": 3,
             "api": "csp_SixVGuard",
             "timeout": 10,

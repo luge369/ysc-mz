@@ -65,7 +65,7 @@
                 "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"
             }
         },
-        {
+    {
             "key": "Biliych",
             "name": "🅱┃哔哩┃演唱",
             "type": 3,
@@ -80,6 +80,16 @@
             "ext": {
                 "json": "https://nos.netease.com/ysf/6496356286589c68f52c2f99c0c674c7.txt"
             }
+        },
+    {
+            "name": "⭐韩剧┃秒播",
+            "key": "Hxq",
+            "type": 3,
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
+            "api": "csp_HxqAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
         },
     {
             "key": "新6V",

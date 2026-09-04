@@ -247,7 +247,7 @@
         },
     {
             "key": "ChildrenAiTuTu",
-            "name": "👼┃兔兔┃儿歌",
+            "name": "👼兔兔┃儿歌👼",
             "type": 3,
             "api": "csp_ChildrenAiTuTuGuard",
             "searchable": 1,

@@ -207,6 +207,19 @@
             "changeable": 0
         },
     {
+            "key": "戏曲多多",
+            "name": "🎼┃多多┃戏曲",
+            "type": 3,
+            "jar": "https://img.51shazhu.com/autoupload/g1b6f/20260903/zrpf/0X0/09032043.png;md5;ac037e008306b2f338c759a8968cd067",
+            "api": "csp_AppLY",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+    {
             "key": "Wexergeduoduo",
             "name": "👼┃多多┃儿歌",
             "type": 3,

@@ -385,16 +385,16 @@
         }
     ],
 //  "ijk": [ { "group": "软解码", "options": [ { "category": 4, "name": "opensles", "value": "0" }, { "category": 4, "name": "overlay-format", "value": "842225234" },
-           { "category": 4, "name": "framedrop", "value": "1" }, { "category": 4, "name": "soundtouch", "value": "1" }, { "category": 4, "name": "start-on-prepared", "value": "1" },
-           { "category": 1, "name": "http-detect-range-support", "value": "0" }, { "category": 1, "name": "fflags", "value": "fastseek" }, { "category": 2, "name": "skip_loop_filter", "value": "48" },
-           { "category": 4, "name": "reconnect", "value": "1" }, { "category": 4, "name": "enable-accurate-seek", "value": "0" }, { "category": 4, "name": "mediacodec", "value": "0" },
-           { "category": 4, "name": "mediacodec-auto-rotate", "value": "0" }, { "category": 4, "name": "mediacodec-handle-resolution-change", "value": "0" }, { "category": 4, "name": "mediacodec-hevc", "value": "0" },
-           { "category": 1, "name": "dns_cache_timeout", "value": "600000000" } ] },
-           { "group": "硬解码", "options": [ { "category": 4, "name": "opensles", "value": "0" }, { "category": 4, "name": "overlay-format", "value": "842225234" }, { "category": 4, "name": "framedrop", "value": "1" },
-           { "category": 4, "name": "soundtouch", "value": "1" }, { "category": 4, "name": "start-on-prepared", "value": "1" }, { "category": 1, "name": "http-detect-range-support", "value": "0" },
-           { "category": 1, "name": "fflags", "value": "fastseek" }, { "category": 2, "name": "skip_loop_filter", "value": "48" }, { "category": 4, "name": "reconnect", "value": "1" },
-           { "category": 4, "name": "enable-accurate-seek", "value": "0" }, { "category": 4, "name": "mediacodec", "value": "1" }, { "category": 4, "name": "mediacodec-auto-rotate", "value": "1" },
-           { "category": 4, "name": "mediacodec-handle-resolution-change", "value": "1" }, { "category": 4, "name": "mediacodec-hevc", "value": "1" }, { "category": 1, "name": "dns_cache_timeout", "value": "600000000" } ] } ],
+//           { "category": 4, "name": "framedrop", "value": "1" }, { "category": 4, "name": "soundtouch", "value": "1" }, { "category": 4, "name": "start-on-prepared", "value": "1" },
+//           { "category": 1, "name": "http-detect-range-support", "value": "0" }, { "category": 1, "name": "fflags", "value": "fastseek" }, { "category": 2, "name": "skip_loop_filter", "value": "48" },
+//           { "category": 4, "name": "reconnect", "value": "1" }, { "category": 4, "name": "enable-accurate-seek", "value": "0" }, { "category": 4, "name": "mediacodec", "value": "0" },
+//           { "category": 4, "name": "mediacodec-auto-rotate", "value": "0" }, { "category": 4, "name": "mediacodec-handle-resolution-change", "value": "0" }, { "category": 4, "name": "mediacodec-hevc", "value": "0" },
+//           { "category": 1, "name": "dns_cache_timeout", "value": "600000000" } ] },
+//           { "group": "硬解码", "options": [ { "category": 4, "name": "opensles", "value": "0" }, { "category": 4, "name": "overlay-format", "value": "842225234" }, { "category": 4, "name": "framedrop", "value": "1" },
+//           { "category": 4, "name": "soundtouch", "value": "1" }, { "category": 4, "name": "start-on-prepared", "value": "1" }, { "category": 1, "name": "http-detect-range-support", "value": "0" },
+//           { "category": 1, "name": "fflags", "value": "fastseek" }, { "category": 2, "name": "skip_loop_filter", "value": "48" }, { "category": 4, "name": "reconnect", "value": "1" },
+//          { "category": 4, "name": "enable-accurate-seek", "value": "0" }, { "category": 4, "name": "mediacodec", "value": "1" }, { "category": 4, "name": "mediacodec-auto-rotate", "value": "1" },
+//           { "category": 4, "name": "mediacodec-handle-resolution-change", "value": "1" }, { "category": 4, "name": "mediacodec-hevc", "value": "1" }, { "category": 1, "name": "dns_cache_timeout", "value": "600000000" } ] } ],
   "ads": [ "static-mozai.4gtv.tv", "pv.vipwm.cc", "mozai.4gtv.tv", "mimg.0c1q0l.cn", "www.googletagmanager.com", "www.google-analytics.com", "mc.usihnbcq.cn", "mg.g1mm3d.cn", "mscs.svaeuzh.cn", "cnzz.hhttm.top",
            "tp.vinuxhome.com", "cnzz.mmstat.com", "www.baihuillq.com", "s23.cnzz.com", "z3.cnzz.com", "c.cnzz.com", "stj.v1vo.top", "z12.cnzz.com", "img.mosflower.cn", "tips.gamevvip.com", "ehwe.yhdtns.com",
            "xdn.cqqc3.com", "www.jixunkyy.cn", "sp.chemacid.cn", "hm.baidu.com", "s9.cnzz.com", "z6.cnzz.com", "um.cavuc.com", "mav.mavuz.com", "wofwk.aoidf3.com", "z5.cnzz.com", "xc.hubeijieshikj.cn",
@@ -402,38 +402,38 @@
            "z7.cnzz.com", "z2.cnzz.com", "s96.cnzz.com", "q11.cnzz.com", "thy.dacedsfa.cn", "xg.whsbpw.cn", "s19.cnzz.com", "z8.cnzz.com", "s4.cnzz.com", "f5w.as12df.top", "ae01.alicdn.com", "www.92424.cn",
            "k.wudejia.com", "vivovip.mmszxc.top", "qiu.xixiqiu.com", "cdnjs.hnfenxun.com", "cms.qdwght.com" ],
 //  "parses": [
-        {"name":"-聚合-","type":3,"url":"Demo"},
-        {"name":"失败手动换","type":"1","url":"https://by1.nxog.eu.org/jx.php?ou=331&mz=0&url="},
-        {"name":"-关注-","type":1,"url":"https://by1.nxog.eu.org/jx.php?ou=331&mz=1&url="},
-        {"name":"-公众号-","type":1,"url":"https://by1.nxog.eu.org/jx.php?ou=331&mz=2&url="},
-        {"name":"-LUGE-","type":1,"url":"https://by1.nxog.eu.org/jx.php?ou=331&mz=3&url="},
-        {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML,like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
-        {"name":"云解","type":0,"url":"https://yparse.ik9.cc/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML,like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
-        {"name":"咸鱼","type":0,"url":"https://jx.xymp4.cc/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML,like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
-        {"name":"淘片","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML,like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
-        {"name":"冰豆","type":0,"url":"https://bd.jx.cn/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML,like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
-        {"name":"盘古","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML,like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
-        {
-            "name": "王",
-            "type": 1,
-            "url": "http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url="
-        },
-        {
-            "name": "二",
-            "type": 1,
-            "url": "http://110.42.7.182:880/api/?key=7e84f07dc78fbb3406d64a1ab7d966b3&url="
-        },
-        {
-            "name": "小",
-            "type": 1,
-            "url": "http://43.136.176.188:91/api/?key=4ef232e96172b0bda78d393c695fe7c4&url="
-        },
-        {
-            "name": "帅",
-            "type": 1,
-            "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
-        }
-    ],
+//        {"name":"-聚合-","type":3,"url":"Demo"},
+//        {"name":"失败手动换","type":"1","url":"https://by1.nxog.eu.org/jx.php?ou=331&mz=0&url="},
+//        {"name":"-关注-","type":1,"url":"https://by1.nxog.eu.org/jx.php?ou=331&mz=1&url="},
+//        {"name":"-公众号-","type":1,"url":"https://by1.nxog.eu.org/jx.php?ou=331&mz=2&url="},
+//        {"name":"-LUGE-","type":1,"url":"https://by1.nxog.eu.org/jx.php?ou=331&mz=3&url="},
+//        {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML,like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
+//        {"name":"云解","type":0,"url":"https://yparse.ik9.cc/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML,like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
+//        {"name":"咸鱼","type":0,"url":"https://jx.xymp4.cc/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML,like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
+//        {"name":"淘片","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML,like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
+//        {"name":"冰豆","type":0,"url":"https://bd.jx.cn/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML,like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
+//        {"name":"盘古","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML,like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
+//        {
+//            "name": "王",
+//            "type": 1,
+//            "url": "http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url="
+//        },
+//        {
+//            "name": "二",
+//            "type": 1,
+//            "url": "http://110.42.7.182:880/api/?key=7e84f07dc78fbb3406d64a1ab7d966b3&url="
+//        },
+//        {
+//            "name": "小",
+//            "type": 1,
+//            "url": "http://43.136.176.188:91/api/?key=4ef232e96172b0bda78d393c695fe7c4&url="
+//        },
+//        {
+//            "name": "帅",
+//            "type": 1,
+//            "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
+//        }
+//    ],
   "doh": [
         {
             "name": "Google",

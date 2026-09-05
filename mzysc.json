@@ -75,42 +75,6 @@
     {"key": "热播","name": "📺┃热播┃TV","type": 3,"jar": "https://zl.wpscdn.cn/2026/09/05/space_img/ed768673-8d55-4f65-8c8e-04ef0c8985b2.jpg;md5;185b2fa185871f1d5b626b41304134d8","api": "csp_AppTTGuard","timeout": 10,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "uqGL1bNENExT7/hGxpSE5qU="},
     {"key": "文采","name": "💮┃文采┃TV","type": 3,"jar": "https://zl.wpscdn.cn/2026/09/05/space_img/ed768673-8d55-4f65-8c8e-04ef0c8985b2.jpg;md5;185b2fa185871f1d5b626b41304134d8","api": "csp_JpysGuard","timeout": 10,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
     {"key": "奶酪","name": "🧀┃奶酪┃TV","type": 3,"jar": "https://zl.wpscdn.cn/2026/09/05/space_img/ed768673-8d55-4f65-8c8e-04ef0c8985b2.jpg;md5;185b2fa185871f1d5b626b41304134d8","api": "csp_T4Guard","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0="},
-    {"key":"哔哩视频","name":"🅱┃哔哩┃影视","type":3,"api":"csp_BiliYS","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"}},
-    {
-            "key": "Bili",
-            "name": "🅱┃哔哩┃合集",
-            "type": 3,
-            "jar": "https://zl.wpscdn.cn/2026/09/05/space_img/ed768673-8d55-4f65-8c8e-04ef0c8985b2.jpg;md5;185b2fa185871f1d5b626b41304134d8",
-            "api": "csp_BiliGuard",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"
-            }
-        },
-    {
-            "key": "Biliych",
-            "name": "🅱┃哔哩┃演唱",
-            "type": 3,
-            "jar": "https://zl.wpscdn.cn/2026/09/05/space_img/ed768673-8d55-4f65-8c8e-04ef0c8985b2.jpg;md5;185b2fa185871f1d5b626b41304134d8",
-            "api": "csp_BiliGuard",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "json": "https://nos.netease.com/ysf/6496356286589c68f52c2f99c0c674c7.txt"
-            }
-        },
-    {"key":"歌曲b","name":"🅱┃哔哩┃歌曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/歌曲MV.json"},"style":{"type":"rect","ratio":1.597}},
     {
             "name": "⭐┃韩剧┃TV",
             "key": "Hxq",
@@ -182,16 +146,43 @@
             "api": "csp_DuanJuAiWeiGuanGuard",
             "searchable": 1,
             "changeable": 0
-        },    
-    {
-            "key": "LiveAiDouYu",
-            "name": "🐳┃斗鱼┃直播",
-            "type": 3,
-            "jar": "http://oss4liview.moji.com/thd_file/2026/09/01/bb1543fe5a028b997b400057e2f24922.jpg;md5;9dafc2b90091283453be78a10fa57a5c",
-            "api": "csp_LiveAiDouYuGuard",
-            "searchable": 1,
-            "changeable": 0
         },
+    {"key":"哔哩视频","name":"🅱┃哔哩┃影视","type":3,"api":"csp_BiliYS","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"}},
+    {
+            "key": "Bili",
+            "name": "🅱┃哔哩┃合集",
+            "type": 3,
+            "jar": "https://zl.wpscdn.cn/2026/09/05/space_img/ed768673-8d55-4f65-8c8e-04ef0c8985b2.jpg;md5;185b2fa185871f1d5b626b41304134d8",
+            "api": "csp_BiliGuard",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"
+            }
+        },
+    {
+            "key": "Biliych",
+            "name": "🅱┃哔哩┃演唱",
+            "type": 3,
+            "jar": "https://zl.wpscdn.cn/2026/09/05/space_img/ed768673-8d55-4f65-8c8e-04ef0c8985b2.jpg;md5;185b2fa185871f1d5b626b41304134d8",
+            "api": "csp_BiliGuard",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "https://nos.netease.com/ysf/6496356286589c68f52c2f99c0c674c7.txt"
+            }
+        },
+    {"key":"歌曲b","name":"🅱┃哔哩┃歌曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/歌曲MV.json"},"style":{"type":"rect","ratio":1.597}},
     {
             "key": "MusicAiIKtv",
             "name": "🎼┃KTV┃音乐",
@@ -200,19 +191,6 @@
             "api": "csp_MusicAiIKtvGuard",
             "searchable": 1,
             "changeable": 0
-        },
-    {
-            "key": "戏曲多多",
-            "name": "🎼┃多多┃戏曲",
-            "type": 3,
-            "jar": "https://img.51shazhu.com/autoupload/g1b6f/20260903/zrpf/0X0/09032043.png;md5;ac037e008306b2f338c759a8968cd067",
-            "api": "csp_AppLY",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            }
         },
     {
             "key": "Wexergeduoduo",
@@ -268,9 +246,18 @@
         },
     {"key":"戏曲多多","name":"🌸┃多多┃戏曲","type":3,"api":"csp_AppLY","style":{"type":"list"}},
     {"key":"Cat_梨园戏","name":"🌸┃梨园┃戏曲","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/liyuan_xi.js","searchable":1,"quickSearch":0,"filterable":1},
-    {"key":"急救教学","name":"🚑┃急救┃知识","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8},"gridview":"0-0-4.1"},
     {"key":"Douyu1","name":"🎮┃手游┃直播","type":3,"api":"csp_Douyu","jar":"https://ncstatic-file.clewm.net/rsrc/2026/0416/20/1fe667cd217a0c314b8ca59310dbf45d.jpg;md5;a4f403a000bc5e4ebdd9da27fcb05852","searchable":0,"quickSearch":0,"changeable":0,"filterable":1,"timeout":10,"style":{"type":"rect","ratio":1.433}},
-    {"key": "哔哩直播","name": "🎮┃哔哩┃直播","type": 3,"api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/哔哩直播.py"}
+    {
+            "key": "LiveAiDouYu",
+            "name": "🎮┃斗鱼┃直播",
+            "type": 3,
+            "jar": "http://oss4liview.moji.com/thd_file/2026/09/01/bb1543fe5a028b997b400057e2f24922.jpg;md5;9dafc2b90091283453be78a10fa57a5c",
+            "api": "csp_LiveAiDouYuGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+    {"key": "哔哩直播","name": "🎮┃哔哩┃直播","type": 3,"api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/哔哩直播.py"},
+    {"key":"急救教学","name":"🚑┃急救┃知识","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8},"gridview":"0-0-4.1"}
   ],
   "rules": [
     {"name": "cdn.ryplay","hosts": ["cdn.ryplay"],"regex": ["5.480000","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.480000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:5.320000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:3.360000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:4.000000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:0.560000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},

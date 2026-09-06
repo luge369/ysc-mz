@@ -98,7 +98,7 @@
         },
     {
             "key": "新6V",
-            "name": "🎬┃新6V┃磁力",
+            "name": "🎬┃新六┃磁力",
             "type": 3,
             "jar": "https://zl.wpscdn.cn/2026/09/05/space_img/ed768673-8d55-4f65-8c8e-04ef0c8985b2.jpg;md5;185b2fa185871f1d5b626b41304134d8",
             "api": "csp_SixVGuard",
@@ -259,13 +259,13 @@
         },
     {"key":"戏曲多多","name":"🌸┃多多┃戏曲","type":3,"api":"csp_AppLY","style":{"type":"list"}},
     {"key":"Cat_梨园戏","name":"🌸┃梨园┃戏曲","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/liyuan_xi.js","searchable":1,"quickSearch":0,"filterable":1},
-    {"key":"Douyu1","name":"🎮┃手游┃直播","type":3,"api":"csp_Douyu","jar":"https://ncstatic-file.clewm.net/rsrc/2026/0416/20/1fe667cd217a0c314b8ca59310dbf45d.jpg;md5;a4f403a000bc5e4ebdd9da27fcb05852","searchable":0,"quickSearch":0,"changeable":0,"filterable":1,"timeout":10,"style":{"type":"rect","ratio":1.433}},
+    {"key":"Douyu1","name":"🎮┃斗鱼┃直播","type":3,"api":"csp_Douyu","jar":"https://ncstatic-file.clewm.net/rsrc/2026/0416/20/1fe667cd217a0c314b8ca59310dbf45d.jpg;md5;a4f403a000bc5e4ebdd9da27fcb05852","searchable":0,"quickSearch":0,"changeable":0,"filterable":1,"timeout":10,"style":{"type":"rect","ratio":1.433}},
     {
-            "key": "LiveAiDouYu",
-            "name": "🎮┃斗鱼┃直播",
+            "key": "LiveAiHuYa",
+            "name": "🎮┃虎牙┃直播",
             "type": 3,
-            "jar": "http://oss4liview.moji.com/thd_file/2026/09/01/bb1543fe5a028b997b400057e2f24922.jpg;md5;9dafc2b90091283453be78a10fa57a5c",
-            "api": "csp_LiveAiDouYuGuard",
+            "jar": "http://oss4liview.moji.com/thd_file/2026/09/06/c9b7ce360a5900c3d089681cf0af7b35.jpg;md5;9f55040b32bfe4a5c9a2353cdef51544",
+            "api": "csp_LiveAiHuYaGuard",
             "searchable": 1,
             "changeable": 0
         },

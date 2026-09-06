@@ -20,6 +20,13 @@
             "ext": "AppV7Fz"
         },
     {
+      "key": "藤藤",
+      "name": "⚡️┃小腾4K┃免扫",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
+    },
+    {
             "key": "爱影视",
             "name": "⚡️┃爱影4K┃免扫",
             "type": 3,
@@ -100,6 +107,17 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "https://www.xb6v.com/"
+        },
+    {
+            "name": "🍉┃河马┃漫短",
+            "key": "Hema",
+            "type": 3,
+            "jar": "https://nos.netease.com/ysf/fa273578c0dc287266bd5dce5eae7082.png;md5;249047fab983b2fe5d716c2ea80a3c47",
+            "api": "csp_HemaAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "genre": "shortdrama"
         },
     {
             "key": "ManJuAiHeMa",
